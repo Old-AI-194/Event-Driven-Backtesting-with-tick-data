@@ -1,0 +1,147 @@
+|ERROR|2021-06-12 12:40:51,340|FXCM Server reports an unknown error: {'executed': False, 'error': ''}.
+|ERROR|2021-06-12 12:40:51,342|Can not parse server answer to json object: {"response":{"executed":false,"error":""},"instrument_id":"1","period_id":"m15","candles":[]}.
+|ERROR|2021-06-12 12:40:51,490|Unknown instrument: USD/EUR
+|ERROR|2021-06-13 20:30:15,723|Unknown instrument: JPY/USD
+|ERROR|2021-06-13 20:30:17,453|Unknown instrument: CHF/USD
+|ERROR|2021-06-13 20:30:17,887|Unknown instrument: CAD/USD
+|ERROR|2021-06-13 20:38:56,174|Unknown instrument: JPY/USD
+|ERROR|2021-06-13 20:38:58,712|Unknown instrument: CHF/USD
+|ERROR|2021-06-13 20:38:59,171|Unknown instrument: CAD/USD
+|ERROR|2021-06-14 18:39:26,051|Unknown instrument: JPY/USD
+|ERROR|2021-06-14 18:39:26,960|Unknown instrument: CHF/USD
+|ERROR|2021-06-14 18:39:27,450|Unknown instrument: CAD/USD
+|ERROR|2021-06-14 18:44:01,022|Unknown instrument: JPY/USD
+|ERROR|2021-06-14 18:44:01,667|Unknown instrument: CHF/USD
+|ERROR|2021-06-14 18:44:02,074|Unknown instrument: CAD/USD
+|ERROR|2021-06-14 20:36:55,798|Server reports an error: {'executed': False, 'error': 'Unauthorized'}.
+|ERROR|2021-06-14 20:36:55,869|URL: https://api-demo.fxcm.com:443/trading/get_model?models=OpenPosition
+|ERROR|2021-06-14 20:36:55,869|Headers: {'User-Agent': 'request', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'application/json', 'Connection': 'keep-alive', 'Authorization': 'Bearer Z4zQQ6WYREu5szU6AC1j2fc647e267d8c700bed406151751417453dbd4ff', 'Content-Type': 'application/x-www-form-urlencoded'}
+|ERROR|2021-06-14 20:36:55,869|Params: {'models': ['OpenPosition']}
+|ERROR|2021-06-14 20:36:55,870|Bearer token: Bearer Z4zQQ6WYREu5szU6AC1j2fc647e267d8c700bed406151751417453dbd4ff
+|ERROR|2021-06-14 20:36:55,870|Connection status: established
+|ERROR|2021-06-14 20:36:55,870|Socket session id: Z4zQQ6WYREu5szU6AC1j
+|ERROR|2021-06-14 20:36:55,871|Can not parse server answer to json object: {"response":{"executed":false,"error":"Unauthorized"}}.
+|ERROR|2021-06-14 22:30:26,448|Unknown instrument: JPY/USD
+|ERROR|2021-06-14 22:30:29,836|Unknown instrument: CHF/USD
+|ERROR|2021-06-14 22:30:30,354|Unknown instrument: CAD/USD
+|ERROR|2021-06-14 22:47:22,751|Unknown instrument: JPY/USD
+|ERROR|2021-06-14 22:47:23,641|Unknown instrument: CHF/USD
+|ERROR|2021-06-14 22:47:24,038|Unknown instrument: CAD/USD
+|ERROR|2021-06-14 22:55:32,198|Unknown instrument: JPY/USD
+|ERROR|2021-06-14 22:55:33,449|Unknown instrument: CHF/USD
+|ERROR|2021-06-14 22:55:33,994|Unknown instrument: CAD/USD
+|ERROR|2021-06-15 06:38:46,080|Unknown instrument: JPY/USD
+|ERROR|2021-06-15 06:38:48,898|Unknown instrument: CHF/USD
+|ERROR|2021-06-15 06:38:49,307|Unknown instrument: CAD/USD
+|ERROR|2021-06-15 07:02:26,308|Unknown instrument: JPY/USD
+|ERROR|2021-06-15 07:02:27,021|Unknown instrument: CHF/USD
+|ERROR|2021-06-15 07:02:27,428|Unknown instrument: CAD/USD
+|ERROR|2021-06-15 20:57:58,253|Connection error: Connection refused by the server
+|ERROR|2021-06-15 20:58:01,445|Connection error: Connection refused by the server
+|ERROR|2021-06-15 20:58:01,446|Socket returns unknown error.
+|ERROR|2021-06-15 20:58:01,446|Connection aborted, failed to reconnect
+|ERROR|2021-06-15 20:58:05,583|Connection error: Connection refused by the server
+|ERROR|2021-06-15 21:11:12,507|Unknown instrument: JPY/USD
+|ERROR|2021-06-15 21:11:13,772|Unknown instrument: CHF/USD
+|ERROR|2021-06-15 21:11:14,211|Unknown instrument: CAD/USD
+|ERROR|2021-06-15 21:43:26,397|Unknown instrument: JPY/USD
+|ERROR|2021-06-15 21:43:27,323|Unknown instrument: CHF/USD
+|ERROR|2021-06-15 21:43:27,932|Unknown instrument: CAD/USD
+|ERROR|2021-06-15 21:52:38,603|Connection error: None
+|ERROR|2021-06-16 06:41:02,136|Unknown instrument: JPY/USD
+|ERROR|2021-06-16 06:41:07,267|Unknown instrument: CHF/USD
+|ERROR|2021-06-16 06:41:07,687|Unknown instrument: CAD/USD
+|ERROR|2021-06-16 18:31:24,922|Unknown instrument: JPY/USD
+|ERROR|2021-06-16 18:31:26,007|Unknown instrument: CHF/USD
+|ERROR|2021-06-16 18:31:26,464|Unknown instrument: CAD/USD
+|ERROR|2021-06-16 19:12:52,037|Unknown instrument: JPY/USD
+|ERROR|2021-06-16 19:12:53,528|Unknown instrument: CHF/USD
+|ERROR|2021-06-16 19:12:53,987|Unknown instrument: CAD/USD
+|ERROR|2021-06-16 19:38:37,346|Unknown instrument: JPY/USD
+|ERROR|2021-06-16 19:38:38,205|Unknown instrument: CHF/USD
+|ERROR|2021-06-16 19:38:38,797|Unknown instrument: CAD/USD
+|ERROR|2021-06-16 19:43:33,377|Unknown instrument: JPY/USD
+|ERROR|2021-06-16 19:43:34,838|Unknown instrument: CHF/USD
+|ERROR|2021-06-16 19:43:35,548|Unknown instrument: CAD/USD
+|ERROR|2021-06-17 20:08:01,419|Unknown instrument: JPY/USD
+|ERROR|2021-06-17 20:08:06,304|Unknown instrument: CHF/USD
+|ERROR|2021-06-17 20:08:06,921|Unknown instrument: CAD/USD
+|ERROR|2021-06-17 21:34:26,908|Unknown instrument: JPY/USD
+|ERROR|2021-06-17 21:34:27,977|Unknown instrument: CHF/USD
+|ERROR|2021-06-17 21:34:28,704|Unknown instrument: CAD/USD
+|ERROR|2021-06-18 23:11:17,607|Unknown instrument: JPY/USD
+|ERROR|2021-06-18 23:11:21,128|Unknown instrument: CHF/USD
+|ERROR|2021-06-18 23:11:21,697|Unknown instrument: CAD/USD
+|ERROR|2021-06-21 18:39:26,946|Unknown instrument: JPY/USD
+|ERROR|2021-06-21 18:39:27,853|Unknown instrument: CHF/USD
+|ERROR|2021-06-21 18:39:28,368|Unknown instrument: CAD/USD
+|ERROR|2021-06-21 19:41:24,259|Unknown instrument: JPY/USD
+|ERROR|2021-06-21 19:41:25,622|Unknown instrument: CHF/USD
+|ERROR|2021-06-21 19:41:26,283|Unknown instrument: CAD/USD
+|ERROR|2021-06-22 19:47:44,554|Unknown instrument: JPY/USD
+|ERROR|2021-06-22 19:47:45,695|Unknown instrument: CHF/USD
+|ERROR|2021-06-22 19:47:46,403|Unknown instrument: CAD/USD
+|ERROR|2021-06-25 22:59:01,035|Unknown instrument: JPY/USD
+|ERROR|2021-06-25 22:59:02,034|Unknown instrument: CHF/USD
+|ERROR|2021-06-25 22:59:02,632|Unknown instrument: CAD/USD
+|ERROR|2021-06-26 00:45:24,540|Unknown instrument: JPY/USD
+|ERROR|2021-06-26 00:45:25,665|Unknown instrument: CHF/USD
+|ERROR|2021-06-26 00:45:26,212|Unknown instrument: CAD/USD
+|ERROR|2021-06-26 00:47:22,657|Unknown instrument: JPY/USD
+|ERROR|2021-06-26 00:47:23,251|Unknown instrument: CHF/USD
+|ERROR|2021-06-26 00:47:23,751|Unknown instrument: CAD/USD
+|ERROR|2021-06-26 00:47:27,970|Unknown instrument: USD/AUD
+|ERROR|2021-06-26 00:48:15,617|Unknown instrument: JPY/USD
+|ERROR|2021-06-26 00:48:16,336|Unknown instrument: CHF/USD
+|ERROR|2021-06-26 00:48:16,836|Unknown instrument: CAD/USD
+|ERROR|2021-06-26 00:49:04,164|Unknown instrument: JPY/USD
+|ERROR|2021-06-26 00:49:04,852|Unknown instrument: CHF/USD
+|ERROR|2021-06-26 00:49:05,352|Unknown instrument: CAD/USD
+|ERROR|2021-06-26 00:50:02,166|Unknown instrument: JPY/USD
+|ERROR|2021-06-26 00:50:02,807|Unknown instrument: CHF/USD
+|ERROR|2021-06-26 00:50:03,354|Unknown instrument: CAD/USD
+|ERROR|2021-06-26 00:51:20,232|Unknown instrument: JPY/USD
+|ERROR|2021-06-26 00:51:20,826|Unknown instrument: CHF/USD
+|ERROR|2021-06-26 00:51:21,326|Unknown instrument: CAD/USD
+|ERROR|2021-06-26 08:15:20,964|FXCM Server reports an unknown error: {'executed': False, 'error': ''}.
+|ERROR|2021-06-26 08:15:20,982|Can not parse server answer to json object: {"response":{"executed":false,"error":""},"instrument_id":"1","period_id":"m15","candles":[]}.
+|ERROR|2021-06-26 08:15:21,439|Unknown instrument: USD/EUR
+|ERROR|2021-06-26 23:04:56,150|FXCM Server reports an unknown error: {'executed': False, 'error': ''}.
+|ERROR|2021-06-26 23:04:56,192|Can not parse server answer to json object: {"response":{"executed":false,"error":""},"instrument_id":"1","period_id":"m15","candles":[]}.
+|ERROR|2021-06-26 23:04:56,831|Unknown instrument: USD/EUR
+|ERROR|2021-06-26 23:10:03,406|FXCM Server reports an unknown error: {'executed': False, 'error': ''}.
+|ERROR|2021-06-26 23:10:03,406|Can not parse server answer to json object: {"response":{"executed":false,"error":""},"instrument_id":"1","period_id":"m15","candles":[]}.
+|ERROR|2021-06-26 23:10:03,418|Unknown instrument: USD/EUR
+|ERROR|2021-06-27 15:04:05,064|FXCM Server reports an unknown error: {'executed': False, 'error': ''}.
+|ERROR|2021-06-27 15:04:05,167|Can not parse server answer to json object: {"response":{"executed":false,"error":""},"instrument_id":"1","period_id":"m15","candles":[]}.
+|ERROR|2021-06-27 15:04:05,727|Unknown instrument: USD/EUR
+|ERROR|2021-06-28 23:10:40,098|Unknown instrument: JPY/USD
+|ERROR|2021-06-28 23:10:50,221|Unknown instrument: CHF/USD
+|ERROR|2021-06-28 23:10:50,972|Unknown instrument: CAD/USD
+|ERROR|2021-06-28 23:14:12,683|Unknown instrument: JPY/USD
+|ERROR|2021-06-28 23:14:15,943|Unknown instrument: CHF/USD
+|ERROR|2021-06-28 23:14:16,458|Unknown instrument: CAD/USD
+|ERROR|2021-06-29 22:53:11,663|Unknown instrument: JPY/USD
+|ERROR|2021-06-29 22:53:13,796|Unknown instrument: CHF/USD
+|ERROR|2021-06-29 22:53:14,640|Unknown instrument: CAD/USD
+|ERROR|2021-07-03 02:10:22,047|Unknown instrument: JPY/USD
+|ERROR|2021-07-03 02:10:24,041|Unknown instrument: CHF/USD
+|ERROR|2021-07-03 02:10:25,416|Unknown instrument: CAD/USD
+|ERROR|2021-07-03 02:12:07,097|Unknown instrument: JPY/USD
+|ERROR|2021-07-03 02:12:08,642|Unknown instrument: CHF/USD
+|ERROR|2021-07-03 02:12:09,892|Unknown instrument: CAD/USD
+|ERROR|2021-07-03 02:13:31,857|Unknown instrument: JPY/USD
+|ERROR|2021-07-03 02:13:33,471|Unknown instrument: CHF/USD
+|ERROR|2021-07-03 02:13:35,542|Unknown instrument: CAD/USD
+|ERROR|2021-07-11 16:06:34,476|Unknown instrument: JPY/USD
+|ERROR|2021-07-11 16:06:35,613|Unknown instrument: CHF/USD
+|ERROR|2021-07-11 16:06:36,199|Unknown instrument: CAD/USD
+|ERROR|2021-07-11 16:16:15,183|Unknown instrument: JPY/USD
+|ERROR|2021-07-11 16:16:16,298|Unknown instrument: CHF/USD
+|ERROR|2021-07-11 16:16:16,897|Unknown instrument: CAD/USD
+|ERROR|2021-09-16 22:17:04,049|Connection error: Your token is not authorized, please contact admin@fxcm.com
+|ERROR|2021-09-28 23:33:00,908|Connection error: Your token is not authorized, please contact admin@fxcm.com
+|ERROR|2021-09-29 21:13:09,678|Connection error: Your token is not authorized, please contact admin@fxcm.com
+|ERROR|2021-09-29 21:20:37,409|Connection error: Your token is not authorized, please contact admin@fxcm.com
+|ERROR|2021-09-29 21:30:17,433|Connection error: Your token is not authorized, please contact admin@fxcm.com
+|ERROR|2021-09-29 21:34:01,290|Connection error: Your token is not authorized, please contact admin@fxcm.com
